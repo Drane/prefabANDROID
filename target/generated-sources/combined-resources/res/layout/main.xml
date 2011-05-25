@@ -66,6 +66,7 @@
 	    android:layout_height="wrap_content" 
 		android:text="@string/register"
 		android:layout_below="@id/passwordConfirmEdit"
+		android:onClick="onRegisterClick"
 		/>
 		
 

@@ -29,11 +29,13 @@ public final class R {
     }
     public static final class string {
         public static final int app_name=0x7f040005;
+        public static final int base_uri=0x7f040007;
         public static final int company=0x7f040000;
         public static final int email=0x7f040002;
         public static final int password=0x7f040003;
         public static final int passwordConfirm=0x7f040004;
         public static final int register=0x7f040001;
+        public static final int temp_uri=0x7f040006;
     }
     public static final class style {
         public static final int LogoFont=0x7f050000;
